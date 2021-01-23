@@ -1,0 +1,1 @@
+# gta-private-gomod-rewrite
